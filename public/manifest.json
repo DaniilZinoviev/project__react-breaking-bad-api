@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Breaking Bad | App",
+  "name": "Breaking Bad app to simply find some information abot the serial.",
   "icons": [
     {
       "src": "favicon.ico",
