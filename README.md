@@ -1,4 +1,4 @@
-# Braking Bad on React
+# Braking Bad DB
 
 There is an app, that uses this [Breaking Bad API](https://www.breakingbadapi.com/) service to show different things, related to the famous serial.
 
